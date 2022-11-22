@@ -3,7 +3,7 @@
 #FUNÇÃO 01 SOMAR:
 def somar(a, b, c): 
     soma = a + b + c
-    print(f"{soma}kg é a igual  a quantidade de peso que Wagner aguenta na rosca")
+    print(f"{soma}")
 somar(1,8,9)
 
 
